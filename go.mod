@@ -1,3 +1,3 @@
-module github.com/luizvicenteps/fullcycle_simulator
+module github.com/luizvicenteps/simulator_go
 
 go 1.16
